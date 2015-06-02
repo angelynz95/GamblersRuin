@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+	background-color: #F0EBCE;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #804040;
+	text-align: center;
+}
+</style>
+</head>
+
+<body>
+<h1>Sejarah</h1>
+<hr />
+<p>&nbsp;</p>
+<table width="1000" border="0" align="center">
+  <tr>
+    <td width="1000" align="left" valign="middle"><p>Gambler's Ruin pertama kali terdengar pada surat yang diberikan oleh Blaise Pascal untuk Pierre Fermat pada tahun 1656, berisi suatu permasalahan. Surat tersebut kemudian diringkas oleh Pierre de Carvaci dan diberikan ke Huygens. Berikut isi dari surat tersebut:</p>
+    <p>Misalkan ada dua orang bermain dengan tiga dadu. Pemain pertama mendapat poin jika ketiga dadu menghasilkan nilai 11 dan pemain kedua mendapat poin jika ketiga dadu menghasilkan nilai 14. Cara penambahan poin sedikit berbeda. Pemain akan mendapat tambahan 1 poin apabila poin lawannya 0. Apabila tidak, maka poin lawannya dikurangi 1. Pemenangnya adalah yang pertama kali mendapat 12 poin. Berapa peluang setiap pemain untuk menang?</p>
+    <p>Huygens merombak permasalahan tersebut menjadi:</p>
+    <p>Setiap pemain memulai permainan dengan 12 poin. Jika ketiga dadu menghasilkan nilai 11 (untuk pemain pertama) atau 14 (untuk pemain kedua), maka pemain yang sesuai dengan nilai tersebut akan mendapat tambahan 1 poin dan pemain lawannya dikurangi 1 poin. Pemain kalah apabila poinnya habis. Berapa peluang setiap pemain untuk menang?</p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="Home.dwt"><img src="48 Flat Designer Icons/Icons/Set 2/PNG/5.png" width="59" height="61" alt="home" longdesc="48 Flat Designer Icons/Icons/Set 2/PNG/5.png" /></a></p>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+	background-color: #BF3542;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	text-align: center;
+}
+</style>
+</head>
+
+<body>
+<h1>Penerapan Rumus</h1>
+<hr />
+<p>&nbsp;</p>
+<table width="1000" border="0" align="center">
+  <tr>
+    <td width="1000" align="left" valign="middle"><p>Misalkan dua orang bermain lempar koin, dimana pemain pertama memiliki peluang p dan pemain kedua memiliki peluang q = p-1, untuk sekali pelemparan. Sebelum memulai permainan, pemain mendapat sejumlah kelereng yang digunakan sebagai standar penilaian. Setiap pelemparan koin, pemain yang kalah memberikan 1 kelerengnya ke pemain lawan. Permainan berakhir ketika salah satu pemain sudah mendapatkan semua kelereng yang ada.</p>Ada dua kondisi yang mungkin terjadi, yaitu Fair Case (p = q) dan Unfair Case (p &lt;&gt; q).
+    <p>Jika pemain pertama memiliki n1 kelereng dan pemain kedua memiliki n2 kelereng, maka peluang pemain pertama (P1) dan peluang pemain kedua (P2) dirumuskan sebagai berikut:</p>
+    <p><strong>Fair Case</strong></p>
+    <p><img src="Images/1.PNG" width="142" height="95" alt="1" longdesc="Images/1.PNG" /></p>
+    <p><strong>Unfair Case</strong></p>
+    <p><img src="Images/2.PNG" width="207" height="131" alt="2" longdesc="Images/2.PNG" /></p>
+    <p>Pada Unfair Case, pemain yang memulai permainan dengan kelereng lebih banyak akan memiliki peluang kemenangan lebih besar.</p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="Home.dwt"><img src="48 Flat Designer Icons/Icons/Set 2/PNG/5.png" width="59" height="61" alt="home" longdesc="48 Flat Designer Icons/Icons/Set 2/PNG/5.png" /></a></p>
+</body>
+</html>

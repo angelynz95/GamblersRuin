@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+	background-color: #CC82C8;
+	text-align: center;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FFFFFF;
+	font-size: 100px;
+}
+</style>
+</head>
+
+<body>
+<p>Gambler's Ruin
+</p>
+<table width="348" border="0" align="center">
+  <tr>
+    <td width="80" align="center" valign="middle"><p><a href="History.dwt"><img src="48 Flat Designer Icons/Icons/Set 2/PNG/10.png" alt="" name="r" width="62" height="48" id="r" longdesc="48 Flat Designer Icons/Icons/Set 2/PNG/10.png"></a></p></td>
+    <td width="80" align="center" valign="middle"><a href="General Description.dwt"><img src="48 Flat Designer Icons/Icons/Set 2/PNG/11.png" width="62" height="53" alt="generaldescription" longdesc="48 Flat Designer Icons/Icons/Set 2/PNG/11.png"></a></td>
+    <td width="80" align="center" valign="middle"><a href="Formula.dwt"><img src="48 Flat Designer Icons/Icons/Set 2/PNG/8.png" width="62" height="50" alt="rumus" longdesc="48 Flat Designer Icons/Icons/Set 2/PNG/8.png"></a></td>
+    <td width="80" align="center" valign="middle"><a href="Profile.dwt"><img src="48 Flat Designer Icons/Icons/Set 2/PNG/9.png" width="54" height="62" alt="profil" longdesc="48 Flat Designer Icons/Icons/Set 2/PNG/9.png"></a></td>
+  </tr>
+</table>
+</body>
+</html>
